@@ -25,6 +25,18 @@ Cybersecurity portfolio showcasing SOC automation, threat detection playbooks, c
 This repository contains automation scripts and workflows for SOC operations, log parsing, and incident response.  
 Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**, **EDR (CrowdStrike)**, and **vulnerability management (Qualys, Nessus)**.
 
+### 🚀 *Getting Started*
+### Clone the repo
+- Install dependencies (pip install -r requirements.txt)
+- Run scripts with sample log files in /data
+- Review Mermaid diagrams in README for workflow context
+
+### 🔮 *Future Work*
+- Splunk detection queries
+- AWS GuardDuty automation scripts
+- Compliance audit dashboards
+
+
 ---
 
 ## ⚙️ Features
