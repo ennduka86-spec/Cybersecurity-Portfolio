@@ -37,12 +37,14 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
 ## 📜 License
 MIT License — free to use and adapt with attribution.
 
+```
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/ennduka86-spec)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ejikeme-nduka-06633a66/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ennduka86@gmail.com)
 
+```
 
 ## ⚙️ Features
 - Automated log parsing for high‑volume SOC alerts  
