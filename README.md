@@ -1,4 +1,4 @@
-# -Cybersecurity-Portfolio
+# Cybersecurity-Portfolio
 ## 🔐 Overview
 This repository contains automation scripts and workflows for SOC operations, log parsing, and incident response.  
 Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**, **EDR (CrowdStrike)**, and **vulnerability management (Qualys, Nessus)**.
