@@ -73,6 +73,13 @@ flowchart TD
 ### Vulnerability Management Flow
 ```mermaid
 flowchart LR
-    Scan --> Prioritize --> Remediate --> Validate --> Report
+    A[Scan]:::red --> B[Prioritize]:::orange --> C[Remediate]:::yellow --> D[Validate]:::green --> E[Report]:::blue
+
+    classDef red fill:#ff4d4d,color:#fff,stroke:#333,stroke-width:1px;
+    classDef orange fill:#ffa64d,color:#fff,stroke:#333,stroke-width:1px;
+    classDef yellow fill:#ffeb3b,color:#000,stroke:#333,stroke-width:1px;
+    classDef green fill:#4caf50,color:#fff,stroke:#333,stroke-width:1px;
+    classDef blue fill:#3f51b5,color:#fff,stroke:#333,stroke-width:1px;
+
 ```
 
